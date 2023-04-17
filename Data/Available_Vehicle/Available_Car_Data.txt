@@ -1,0 +1,5 @@
+CE_6974:Mercedes-Benz:Black:2016:4:AC
+PE_9871:Honda CR-V:White:2019:5:AC
+MJ_6547:Maruti Alto:Black:2021:4:Non-AC
+AC_4558:BMW 318i M:White:2019:5:Non-AC
+SD_8745:Toyota Corolla:White:2005:4:Non-AC
