@@ -6,11 +6,8 @@ The purpose of this project is to make rented cars or vehicles available for the
 
 The program includes the following features:
 
-    • The program includes the following features:
     • Remove a vehicle from the system
     • Assign a job (hire)
     • Release form assigned job (hire) after completing
     • See available vehicles in each category
     
-    
- 
